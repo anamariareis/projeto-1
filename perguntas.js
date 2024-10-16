@@ -36,7 +36,7 @@ criaCartão(
 
 criaCartão(
     'Física',
-    'O que é MVU',
+    'O que é MUV',
     'Movimento Uniformemente Variado- é um movimento em que a velocidade varia de forma constante a cada segundo '
 )
 
