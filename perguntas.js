@@ -115,5 +115,5 @@ criaCartão(
 criaCartão(
     'Histótia',
     'O que foi a KGB',
-    'Principal organização de serviçosmsecretos da União Soviética'
+    'Principal organização de serviços secretos da União Soviética'
 )
