@@ -89,14 +89,14 @@ criaCartão(
 )
 
 criaCartão(
-    'Matematica',
-    'Como se calcula a some dos termos de uma P.A',
-    'Utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Programação',
+    'Como criar um link para o seu projeto?',
+    'importe seu projeto no aplicativo versel'
 )
 
 criaCartão(
-    'Matematica',
-    'Como se calcula a some dos termos de uma P.A',
+    'biologia',
+    'Quais são as fases do desenvolvimento embrionario',
     'Utiliza-se a fórmula: ((a1+an)*r)/2'
 )
 
