@@ -115,5 +115,5 @@ criaCartão(
 criaCartão(
     'Histótia',
     'O que foi a KGB',
-    'Utiliza-se a fórmula: ((a1+an)*r)/2j'
+    'Principal organização de serviçosmsecretos da União Soviética'
 )
