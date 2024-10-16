@@ -96,8 +96,8 @@ criaCartão(
 
 criaCartão(
     'biologia',
-    'Quais são as fases do desenvolvimento embrionario',
-    'Utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Quais são as fases do desenvolvimento embrionario?',
+    'Zigoto,'
 )
 
 criaCartão(
