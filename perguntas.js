@@ -97,23 +97,23 @@ criaCartão(
 criaCartão(
     'biologia',
     'Quais são as fases do desenvolvimento embrionario?',
-    'Zigoto,'
+    'Zigoto, Morula, blastocisto e glastrula'
 )
 
 criaCartão(
-    'Matematica',
-    'Como se calcula a some dos termos de uma P.A',
-    'Utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Química',
+    'qual o prefixo correspondente a 4 carbonos?',
+    'But'
 )
 
 criaCartão(
-    'Matematica',
-    'Como se calcula a some dos termos de uma P.A',
-    'Utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Educação Fisíca',
+    'Que ano foi criado o vôlei?',
+    '1895'
 )
 
 criaCartão(
-    '',
-    '',
-    'Utiliza-se a fórmula: ((a1+an)*r)/2'
+    'Histótia',
+    'O que foi a KGB',
+    'Utiliza-se a fórmula: ((a1+an)*r)/2j'
 )
