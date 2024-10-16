@@ -39,4 +39,5 @@ footer{
 
 .conteudo-cartao{
     background-color: var(--cartão-frente);
+    height: 100%;
 }
