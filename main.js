@@ -13,6 +13,12 @@
     </div>
 </div>
  `
+ let respostaEstaVisivel = false;
+ function viraCartão(){
+    respostaEstaVisivel = !respostaEstaVisivel;
+    cartao.classList.toggle('active',respostaEstaVisivel);
+ }
+ 
  container.appendChild(cartao);
 }
 

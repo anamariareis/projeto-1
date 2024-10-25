@@ -4,7 +4,7 @@
     --cartão-verso: #FFFFF0;
     --destaque: #6A5ACD;
     --preto: 	#000000;
-    --branco: #FFFFFF;
+    --branco: #ffffff;
 }
 
 body{
@@ -77,7 +77,7 @@ border: 2px solid var(--destaque);
 font-size: 1.4vw
 }
 
-.cartao:hover .conteudo-cartao{
+.cartao:active .conteudo-cartao{
     transform: rotateY(180deg);
 }
 
