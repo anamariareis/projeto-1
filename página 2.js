@@ -18,6 +18,3 @@ function criaCartão(categoria, pergunta, resposta){
 
    function mostrarResposta(){
     console resposta = document.querySelector('.resposta-cartao');
-   }
-   
-   
