@@ -12,6 +12,13 @@ body{
     margin: 0;
 }
 
+header{
+    background-color: var(--cartão-frente);
+    display: flex;
+    justify-content: space-around;
+}
+
+
 footer{
     background-color: var(--cartão-frente);
     position: fixed;
